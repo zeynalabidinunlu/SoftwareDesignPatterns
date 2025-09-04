@@ -1,0 +1,11 @@
+# Önce her şeyi ignore et
+*
+
+# src/main/java klasörünü takip et
+!src/
+!src/main/
+!src/main/java/
+!src/main/java/**
+
+# .gitignore dosyasının kendisini takip et
+!.gitignore
